@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Eugene
 
 ### 💬About me
-🎮I am engaged in game development
+🎮 I am engaged in game development
 <br />
-🌐Mainly develop in C# and Unity
+🌐 Mainly develop in C# and Unity
 <br />
 💪 I like to write code
 <br />
